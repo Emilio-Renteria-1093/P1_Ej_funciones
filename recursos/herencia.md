@@ -2,4 +2,5 @@ crea una clase animal con los atributos (id_animal, nombre, raza)y una función 
 
 salida de resultados
 
+
 ![alt text](image-15.png)
